@@ -1,4 +1,7 @@
-## Long Guo's Home Page
+## Long Guo
+Alibaba Inc.
+Address: 
+Email: leo.gl@alibaba-inc.com
 
 You can use the [editor on GitHub](https://github.com/longzaitianguo/leogl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
