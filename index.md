@@ -17,11 +17,22 @@ Huazhong University of Science and Technology, China, 2007 to 2011
 
 ### PUBLICATIONS
 
-- Bulleted
-- List
+1. __Long Guo__, Dongxiang Zhang, Yuan Wang, Huayu Wu, Bin Cui, Kian-Lee Tan, “CO2: Inferring Personal Interests From Raw Footprints by Connecting the Offline World with the Online World ", TOIS 2018  
+2. Dongxiang Zhang, __Long Guo__, Xiangnan He, Sai Wu and Heng Tao Shen, “A Graph-Theoretic Fusion Framework for Unsupervised Entity Resolution ", ICDE 2018  
+3. Lei Wang, Dongxiang Zhang, Lianli Gao, Jingkuan Song, __Long Guo__, and Heng Tao Shen, “MathDQN: Solving Arithmetic Word Problems via Deep Reinforcement Learning ", AAAI 2018   
+4. __Long Guo__, Dongxiang Zhang, Gao Cong, Wei Wu, Kian-Lee Tan, “Influence Maximization in Trajectory Databases", ICDE 2017   
+5. __Long Guo__, Dongxiang Zhang, Huayu Wu, Bin Cui, Kian-Lee Tan, “From Raw Footprints to Personal Interests: Bridging the Semantic Gap via Trip Intention Aggregation", ICDE 2017   
+6. __Long Guo__, Dongxiang Zhang, Gao Cong, Wei Wu, Kian-Lee Tan, “Influence Maximization in Trajectory Databases", TKDE 2017   
+7. Dongxiang Zhang, \*__Long Guo__, Kian-Lee Tan, “Targeted Advertising in Public Transportation Systems with Quantitative Evaluation", TOIS 2017   
+8. Ning Liu, Dongxiang Zhang, Xing Xu, __Long Guo__, Lijiang Chen, Wenju Liu, and Dengfeng Ke, “Robust Math Formula Recognition in Degraded Chinese Document Images ", ICDAR 2017   
+9. Ning Liu, Dongxiang Zhang, Xing Xu, Wenju Liu, Dengfeng Ke, __Long Guo__, Shengkun Shi, Hui Liu, and Lijiang Chen, “An Iterative Refinement Framework for Image Dcoument Binarization with Bhattacharyya Similarity Measure ", ICDAR 2017   
+10. __Long Guo__, Dongxiang Zhang, Guoliang Li, Kian-Lee Tan, Zhifeng Bao, “Location-Aware Pub/Sub System: When Continuous Moving Queries Meet Dynamic Event Streams”, SIGMOD 2015   
+11. __Long Guo__, Lu Chen, Dongxiang Zhang, Guoliang Li, Kian-Lee Tan, Zhifeng Bao, “Elaps: An Efficient Location-Aware Pub/Sub System”, ICDE 2015   
+12. __Long Guo__, Jie Shao, Htoo Htet Aung and Kian-Lee Tan, “Efficient Continuous Top-k Spatial Keyword Queries on Road Networks", Geoinformatica 2015   
+13. Jie Shao, Lars Kulik, Egemen Tanin and __Long Guo__, “Travel Distance versus Navigation Complexity: A Study on Different Spatial Queries on Road Networks", CIKM 2014   
+14. __Long Guo__, Jie Shao, Kian-Lee Tan and Yang Yang, “WhereToGo: Personalized Travel Recommendation for Individuals and Groups", MDM 2014   
+15. Htoo Htet Aung, __Long Guo__ and Kian-Lee Tan, “Mining Sub-trajectory Cliques to Find Frequent Routes", SSTD 2013 
 
-1. Numbered
-2. List
 
 
 **Bold** and _Italic_ and `Code` text
