@@ -1,22 +1,22 @@
 ## Long Guo
-### __Alibaba Inc__.
+__Alibaba Inc__.
 
 __Email__: leo.gl@alibaba-inc.com
 
-You can use the [editor on GitHub](https://github.com/longzaitianguo/leogl.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### ABOUT ME
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+__I am a senior researcher in Alibaba Inc. I obtained my Ph.D in Computer Science from National University of Singapore in 2015, and B.Sc from Huazhong University of Science and Technology in 2011 respectively.__
 
-### Markdown
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+__Ph.D in Computer Science__
+National University of Singapore, Singapore, 2011 to 2015
+__Research interests: Big data processing and analysis, natural language processing, deep learning
 
-```markdown
-Syntax highlighted code block
+__B.Sc in Computer Science__
+Huazhong University of Science and Technology, China, 2007 to 2011
 
-# Header 1
-## Header 2
-### Header 3
+### PUBLICATIONS
 
 - Bulleted
 - List
