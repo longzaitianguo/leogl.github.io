@@ -36,7 +36,17 @@ Huazhong University of Science and Technology, China, 2007 to 2011
 17. Htoo Htet Aung, __Long Guo__ and Kian-Lee Tan, “Mining Sub-trajectory Cliques to Find Frequent Routes", SSTD 2013 
 
 
-### PUBLICATIONS
+### EMPLOYMENT
+
+__Senior Researcher__   
+Alibaba Inc. @ Beijing, China - Sep 2018 to Present
+
+__Postdoctoral__  
+Beijing University @ Beijing, China - Oct 2016 to Sep 2018
+
+__Research Fellow__  
+National University of Singapore @ Singapore - Feb 2016 to Sep 2016
+
 
 
 
