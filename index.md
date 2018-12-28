@@ -1,6 +1,5 @@
 ## Long Guo
-__Alibaba Inc__.
-
+__Alibaba Inc__.   
 __Email__: leo.gl@alibaba-inc.com
 
 ### ABOUT ME
@@ -9,15 +8,11 @@ __I am a senior researcher in Alibaba Inc. I obtained my Ph.D in Computer Scienc
 
 ### EDUCATION
 
-__Ph.D in Computer Science__
-
-National University of Singapore, Singapore, 2011 to 2015
-
+__Ph.D in Computer Science__   
+National University of Singapore, Singapore, 2011 to 2015   
 __Research interests: Big data processing and analysis, natural language processing, deep learning
 
-
-__B.Sc in Computer Science__
-
+__B.Sc in Computer Science__   
 Huazhong University of Science and Technology, China, 2007 to 2011
 
 ### PUBLICATIONS
@@ -27,6 +22,7 @@ Huazhong University of Science and Technology, China, 2007 to 2011
 
 1. Numbered
 2. List
+
 
 **Bold** and _Italic_ and `Code` text
 
